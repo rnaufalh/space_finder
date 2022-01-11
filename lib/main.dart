@@ -7,7 +7,7 @@ class SpaceFinder extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.grey,
         appBar: AppBar(
           title: Text('Space Finder'),
           backgroundColor: Colors.lightBlue,
